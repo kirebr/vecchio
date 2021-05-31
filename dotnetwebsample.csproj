@@ -1,5 +1,10 @@
-<PropertyGroup>
-  <!-- other properties here -->
+<Project Sdk="Microsoft.NET .Sdk.Web">
 
-  <!-- SonarQube needs this -->
-  <ProjectGuid>{e9fabfe4-071b-4f40-99ad-0941f5f177c1}</ProjectGuid>
+
+<PropertyGroup>
+  <TargetFramework>netcoreapp3 .1 </TargetFramework>
+  <ProjectGuid>c6be0f76-5c45-4d39-a134-dae67da9569e</ProjectGuid>
+  
+</PropertyGroup>
+  
+ </Project>
